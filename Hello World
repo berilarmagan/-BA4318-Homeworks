@@ -1,4 +1,4 @@
-# Write "Hello Word!" and introduce yourself
+# Write "Hello World!" and introduce yourself
 print("Hello Word!")
 name=input("What is your name?")
 print("Nice to meet you,", name)
